@@ -1,3 +1,5 @@
+![logo](https://github.com/sayakdeepghosh01/sayakdeepghosh01/blob/main/download.jpg?raw=true](https://github.com/sayakdeepghosh01/sayakdeepghosh01/blob/main/ai-technology-brain-background-digital-transformation-concept.jpg))
+
 # 💫 About Me:
 I'm currently pursuing B tech degrees in computer science and engineering<br>I'm looking to collaborate on my projects<br>I'm currently learning Machine Learning and Deep Learning<br>Ask me about ML/DL, Web Dev , Blockchain
 

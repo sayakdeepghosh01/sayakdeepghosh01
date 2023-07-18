@@ -1,5 +1,8 @@
 ![logo](https://github.com/sayakdeepghosh01/sayakdeepghosh01/blob/main/while%20(%20!%20(%20SUCCEED%20%3D%20try%20()%20)%20)%20%3B.png)
-
+[![](https://visitcount.itsvg.in/api?id=sayakdeepghosh01&label=Profile113%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sayakdeepghosh01&label=Profile113%20Views&color=2&icon=0&pretty=false" />
+</a>
 # 💫 About Me:
 I'm currently pursuing B tech degrees in computer science and engineering<br>I'm looking to collaborate on my projects<br>I'm currently learning Machine Learning and Deep Learning<br>Ask me about ML/DL, Web Dev , Blockchain
 

@@ -1,7 +1,7 @@
 ![logo](https://github.com/sayakdeepghosh01/sayakdeepghosh01/blob/main/while%20(%20!%20(%20SUCCEED%20%3D%20try%20()%20)%20)%20%3B.png)
 
 # 💫 About Me:
-🎓 Currently on the journey of a B.Tech degree in Computer Science and Engineering.<br><br>💻 Always open to collaboration on exciting projects.<br><br>🌐 Enthusiastically exploring the realms of Machine Learning, Deep Learning, NLP, and Web Development.<br><br>🤔 Curious? Ask me anything about ML/DL, Web Dev, or Blockchain. Let's chat and innovate!<br><br>🎉 Fun Fact: I can recite the entire alphabet backward faster than forwards! 🤓✨
+🎓 Currently on the journey of a B.Tech degree in Computer Science and Engineering.<br><br>💻 Always open to collaboration on exciting projects.<br><br>🌐 Enthusiastically exploring the realms of Machine Learning, Deep Learning, NLP, and Web Development.<br><br>🤔 Curious? Ask me anything about ML/DL, Web Dev, or Blockchain. Let's chat and innovate!<br><br>🎉 Fun Fact: I can recite the entire alphabet forward faster than backwards! 🤓✨
 
 
 ## 🌐 Socials:
